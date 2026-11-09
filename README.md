@@ -60,3 +60,7 @@ A análise dos dados permitiu identificar alguns padrões relevantes:
 
 - Inclusão de ícones da biblioteca Lucide Icons para melhorar a identificação dos elementos de navegação e facilitar a interpretação visual do dashboard.
 - Ajustes na apresentação e organização dos elementos visuais.
+
+## Como utilizar
+
+Para utilizar o dashboard, baixe o arquivo sales-intelligence v1.01.pbix disponível neste repositório e abra-o no Microsoft Power BI Desktop. Após a abertura, navegue pelas páginas utilizando o menu lateral para acessar as análises de Visão Geral, Vendas, Vendedores e Regionalização. Utilize os filtros e seletores disponíveis para explorar os dados por período, vendedor ou região, permitindo comparar indicadores e visualizar diferentes perspectivas do desempenho comercial.
